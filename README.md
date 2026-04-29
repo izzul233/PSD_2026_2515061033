@@ -1,3 +1,4 @@
 # SISTEM PENILAIAN BAHASA INGGRIS
 
 # DESKRIPSI SINGKAT
+Sistem penilaian bahasa inggris adalah sebuah program berbasis Python yang dirancang untuk mengelola data penilaian siswa secara sistematis melalui antarmuka baris perintah (CLI). Proyek ini menitikberatkan pada implementasi struktur data Array 1 Dimensi untuk menyimpan data nama dan nilai secara paralel, sehingga integritas informasi tetap terjaga melalui sinkronisasi indeks. Dalam proses pengembangannya, program ini menerapkan logika pemrograman yang kuat untuk memastikan keamanan data, seperti penggunaan perulangan while True yang dipadukan dengan error handling try-except. Mekanisme ini berfungsi untuk memvalidasi input pengguna secara real-time, mencegah terjadinya crash akibat kesalahan tipe data, serta memastikan bahwa nilai numerik yang dimasukkan tetap berada dalam rentang valid antara 0 hingga 100.
