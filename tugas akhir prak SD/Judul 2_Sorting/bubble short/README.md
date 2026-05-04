@@ -16,3 +16,7 @@ lalu setelah itu kita di minta untuk memasukkan nama transaksinya dan nominal tr
 
 <img width="882" height="249" alt="Screenshot 2026-05-04 153611" src="https://github.com/user-attachments/assets/c6dc5dce-431d-46d1-bd7e-c474f945f927" />
 lalu setelah kita enter, maka akan keluar outputnya seperti TRANSAKSI SEBELUM DI URUTKAN dan TRANSAKSI SETELAH DI URUTKAN  (Berdasarkan Nominal Terkecil-Terbesar)
+
+# LINK YOUTUBE
+
+https://youtu.be/QuSXJkOSO3Y?si=23i-4uXsozc9OIRW
