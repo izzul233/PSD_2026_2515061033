@@ -8,3 +8,9 @@ terus yang ke dua Pengurutan Terstruktur yaitu Menerapkan algoritma pengurutan B
 Melalui program ini, pengguna tidak hanya mendapatkan daftar pengeluaran yang lebih rapi, tetapi juga dapat melihat penerapan nyata dari konsep algoritma dasar dalam menyelesaikan masalah sehari-hari.
 
 # OUTPUT
+<img width="540" height="71" alt="Screenshot 2026-05-04 153502" src="https://github.com/user-attachments/assets/21ad2e88-f93a-4e28-ba92-4e4662744820" />
+DI output ini pertama tama kita di minta untuk memasukkan jumlah transaksinya,lalu kita contohkan transaksinya itu 3
+<img width="445" height="331" alt="Screenshot 2026-05-04 153548" src="https://github.com/user-attachments/assets/86ff5480-e62a-42ec-9388-4c113a82d227" />
+lalu setelah itu kita di minta untuk memasukkan nama transaksinya dan nominal transaksi,kita contohkan di situ untuk transaksi 1 itu makan dengan nominal 30.000,lalu jajan dengan nominal 10.000,dan yang terakhir itu bensin dengan nominal 22.000
+<img width="882" height="249" alt="Screenshot 2026-05-04 153611" src="https://github.com/user-attachments/assets/c6dc5dce-431d-46d1-bd7e-c474f945f927" />
+lalu setelah kita enter, maka akan keluar outputnya seperti TRANSAKSI SEBELUM DI URUTKAN dan TRANSAKSI SETELAH DI URUTKAN  (Berdasarkan Nominal Terkecil-Terbesar)
