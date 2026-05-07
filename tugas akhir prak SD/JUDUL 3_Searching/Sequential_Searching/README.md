@@ -22,8 +22,10 @@ cek,jika nama yang di cek itu sudah ketemu maka dia akan menampilkan "pemenang d
 lalu dia akan menampilkan pencarian selesai
 <img width="986" height="150" alt="image" src="https://github.com/user-attachments/assets/ebcb85af-8b6e-48ae-80da-e4c4ad297197" />
 jika nama yang di cari itu tidak ada dalam daftar nama peserta,maka dia akan menampilkan nama {nama_dicari} tidak ditemukan di daftar peserta,lalu pencarian selesai.
+
 # OUTPUT
 <img width="620" height="279" alt="image" src="https://github.com/user-attachments/assets/631ca07b-890d-4124-93e9-fcfe580ecf63" />
 output program ini menampilkan proses kerja komputer langkah demi langkah. Saat dijalankan, layar akan memunculkan satu per satu nama yang sedang dicek dari urutan paling awal, mulai dari ahmad, budi, cici, hingga sampai ke danang. Begitu target "danang" dicek dan ternyata cocok, program akan langsung mencetak pesan keberhasilan bahwa pemenang ditemukan beserta keterangan posisinya di dalam daftar yaitu urutan ke-4. Karena pemenang sudah berhasil didapatkan, pencarian akan otomatis berhenti di titik tersebut. Alhasil, nama-nama sisa yang ada di daftar bawahnya, seperti elis dan fajar, tidak akan diproses atau dimunculkan lagi di layar.
+
 # LINK YOUTUBE
 https://youtu.be/BJoS0tGAGqA
