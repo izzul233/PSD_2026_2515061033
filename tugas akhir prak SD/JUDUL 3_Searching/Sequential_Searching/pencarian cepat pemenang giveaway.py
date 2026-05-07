@@ -1,7 +1,7 @@
 print("=== PENCARIAN CEPAT PEMENANG GIVEAWAY ===")
 
-daftar_peserta = ["Ahmad", "Budi", "Cici", "danang", "elis", "fajar"]
-nama_dicari = "supri"
+daftar_peserta = ["ahmad", "budi", "cici", "danang", "elis", "fajar"]
+nama_dicari = "danang"
 sudah_ketemu = False
 print(f"Mencari nama '{nama_dicari}' di dalam daftar...\n")
 
