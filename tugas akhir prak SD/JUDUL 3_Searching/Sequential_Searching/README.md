@@ -5,6 +5,7 @@ Proyek kecil ini berisi contoh sederhana penerapan algoritma Sequential Search a
 Kode dalam repositori ini sengaja dirancang agar sangat ramah bagi pemula. Tidak ada penggunaan struktur sintaks yang rumit seperti function (def) ataupun class, melainkan murni mengandalkan alur logika dasar sehari-hari. Tujuannya adalah agar teman-teman yang baru saja mulai belajar Python bisa dengan mudah memahami bagaimana cara kerja perulangan ketika digabungkan dengan logika pengkondisian (if statement). Intinya, repositori ini tidak bertujuan untuk membuat aplikasi yang kompleks, melainkan sebagai wadah belajar untuk memahami pondasi paling awal tentang bagaimana sebuah komputer memproses dan mencari data di dalam kumpulan informasi.
 # SOURCE CODE
 <img width="1069" height="614" alt="image" src="https://github.com/user-attachments/assets/e05527ee-0ea6-4ade-ae12-cff0e6d83f66" />
+
 # PENJELASAN CODE
 <img width="747" height="52" alt="image" src="https://github.com/user-attachments/assets/2989fc8d-bd46-4501-9bc9-a29f7b34c468" />
 yang pertama saya menampilkan pencarian cepat pemenang giveaway sebagai tema dari code tersebut
