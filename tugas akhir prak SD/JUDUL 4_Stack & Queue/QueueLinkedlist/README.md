@@ -1,4 +1,4 @@
-# PENCARIAN CEPAT PEMENANG GIVEAWAY
+# ANTREAN BANK
 # DESKRIPSI
 Kode ini merupakan sebuah implementasi lengkap dari sistem manajemen antrean kasir yang dibangun menggunakan bahasa pemrograman Python dengan memanfaatkan struktur data fundamental dalam ilmu komputer, yaitu Linked List. Program ini dirancang untuk mensimulasikan secara digital bagaimana sebuah antrean pelanggan di kasir bekerja dalam kehidupan nyata, mulai dari proses seorang pelanggan mendaftarkan dirinya ke dalam antrean, hingga proses pemanggilan pelanggan tersebut untuk dilayani oleh kasir, serta kemampuan untuk memantau kondisi dan kepadatan antrean secara langsung.
 
